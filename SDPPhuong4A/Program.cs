@@ -15,7 +15,7 @@ namespace SDPPhuong4A
             Console.WriteLine("Winter is comming to town");
 
 
-            Console.WriteLine("hello changing");
+            Console.WriteLine("Hello Tien");
         }
     }
 }
