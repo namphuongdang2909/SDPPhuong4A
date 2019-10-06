@@ -13,6 +13,7 @@ namespace SDPPhuong4A
             Console.WriteLine("This is for Rainbow");
             Console.WriteLine("I also like purple");
             Console.WriteLine("Winter is comming to town");
+            Console.WriteLine("Hello this is Tien");
         }
     }
 }
